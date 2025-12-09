@@ -1,2 +1,2 @@
-# Federated-IDS-Blockchain-Rollback
+# Blockchain‑Audited Federated Intrusion Detection System with Provenance‑Grounded Poisoning Detection and Safe Rollback
 Blockchain‑audited federated intrusion detection system with provenance‑based poisoning detection and safe rollback. Provides preprocessing for NSL‑KDD and CICIDS2017, federated training with attack simulation, Merkle‑root provenance anchoring, anomaly detection, rollback protocol, and evaluation metrics (Accuracy, F1, ROC‑AUC, heatmaps).
